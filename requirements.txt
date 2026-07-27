@@ -1,7 +1,7 @@
-streamlit
-pandas
-scikit-learn
-joblib
-dotenv
-langchain_groq
-langchain_core.prompts
+streamlit>=1.38,<2.0
+pandas>=2.2,<3.0
+scikit-learn>=1.5,<2.0
+joblib>=1.4,<2.0
+python-dotenv>=1.0,<2.0
+langchain-groq>=0.2,<0.3
+langchain-core>=0.3,<0.4
