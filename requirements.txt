@@ -3,3 +3,5 @@ pandas
 scikit-learn
 joblib
 dotenv
+langchain_groq
+langchain_core.prompts
